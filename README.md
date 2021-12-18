@@ -1,4 +1,4 @@
-##Arduino - Bluetooth Controlled Car
+## Arduino - Bluetooth Controlled Car
 
 Final version of our project for Electronic Measurements and Sensors class
   - Technical University of Cluj- Napoca
